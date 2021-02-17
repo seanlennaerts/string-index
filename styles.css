@@ -1,0 +1,18 @@
+* {
+  font-family: monospace;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+td {
+  border: solid 1px gray;
+  width: 1rem;
+}
+
+textarea {
+  width: 50rem;
+  height: 5rem;
+}
